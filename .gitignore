@@ -1,4 +1,6 @@
 AIGC-Detection-Dataset/
+resized-AIGC-Detection-Dataset/
+tmp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
